@@ -1,7 +1,7 @@
 # Canal Casos e Acasos
 Por Carlos Oliveira
 
-#Fontes usadas para o caso Ângela Diniz
+# Fontes usadas para o caso Ângela Diniz
 
 https://www1.folha.uol.com.br/fsp/cotidian/ff0109200607.htm
 
